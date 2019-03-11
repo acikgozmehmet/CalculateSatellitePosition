@@ -12,7 +12,7 @@ The main driver for the project is CalcSatPos_Project.
 Project contains the following subfolders/class in addition to the unit test (Unit_CalcSatPos.cpp)
 * **BrdcEph**
 
-  It contains the class which loads the broadcast ephemeris file and calculates the ECEF position of the satellite at the desired epoch.
+  It contains the class which loads the broadcast ephemeris file and calculates the ECEF coordinates of the satellite at the desired epoch.
 It also generates a summary file about the availability of the satellites for the input ephemeris file. The extension of the file  *.sum
 
 * **Constants**
